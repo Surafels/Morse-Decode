@@ -25,4 +25,10 @@ CODE_CHAR =  {
     "-..-"  => "X",
     "-.--"  => "Y",
     "--.."  => "Z"
-  }
+}.freeze
+
+def decode_char(morse_code)
+  CODE_CHAR[morse_code] || ""
+end
+ 
+
