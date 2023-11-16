@@ -56,7 +56,7 @@ Clone this repository to your desired folder:
 
 - git clone https://github.com/Surafels/Morse-Decode.git
 - cd decode-morse-code
-- code . <!-- If you are using VS Code -->
+- code .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
