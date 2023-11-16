@@ -42,6 +42,7 @@ end
 puts decode_char('.-')
 puts decode_word('-- -.--')
 
-message = '-- -.--   -. .- -- .'
+message = '-- -.-- / -. .- -- .'
+
 decoded_message = decode_message(message)
 puts decoded_message
